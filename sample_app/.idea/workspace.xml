@@ -31,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/ddavids/simplepay_projects/simplepay",
+    "last_opened_file_path": "/home/ddavids/learning/ruby_practice/sample_app",
     "nodejs_package_manager_path": "npm",
     "ruby.rails.projectView.checked": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable"
@@ -349,6 +349,7 @@
       <workItem from="1658382535928" duration="74000" />
       <workItem from="1658432528465" duration="2904000" />
       <workItem from="1658470241027" duration="29000" />
+      <workItem from="1658670330102" duration="1255000" />
     </task>
     <servers />
   </component>
